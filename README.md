@@ -2,11 +2,11 @@
 
 [![Build Status](https://img.shields.io/github/workflow/status/nihalmishra/portfolio/Continous-Deployment?style=for-the-badge)](https://github.com/nihalmishra/portfolio/actions?query=workflow%3AContinous-Deployment)
 
-## To run this project follow these steps:
+## To run this project follow these steps
 
 - clone the repo using `git clone`
 - navigate to folder `portfolio`
 - run `npm install` to install node modules and dependencies
 - run `npm start` to start the service on `localhost:3000`
 
-### Link to my website : https://nihalmishra.github.io/portfolio/
+### Link to my website : <https://nihalmishra.github.io/portfolio/>
