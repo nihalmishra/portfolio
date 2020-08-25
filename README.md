@@ -1,6 +1,6 @@
 # My Online Portfolio made using React.js
 
-[![Build Status](https://img.shields.io/github/workflow/status/nihalmishra/portfolio/Continous-Deployment?style=for-the-badge)](https://github.com/nihalmishra/portfolio/actions?query=workflow%3AContinous-Deployment)
+[![Build Status](https://img.shields.io/github/workflow/status/nihalmishra/portfolio/continuous-deployment?style=for-the-badge)](https://github.com/nihalmishra/portfolio/actions?query=workflow%3Acontinuous-deployment)
 
 ## To run this project follow these steps
 

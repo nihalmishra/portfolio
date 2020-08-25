@@ -1,5 +1,5 @@
   
-name: Continous-Deployment
+name: continuous-deployment
 on:
   push:
     branches:
