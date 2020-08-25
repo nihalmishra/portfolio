@@ -45,7 +45,7 @@ export default class Introduction extends Component {
                       <div className="slider-text-inner">
                         <div className="desc">
                           <h1>Connect with me on<br/> LinkedIn</h1>
-                          <p><a className="btn btn-primary" href="https://www.linkedin.com/nihalmishra" target="_blank" rel="noopener noreferrer">LinkedIn Profile <i className="icon-book" /></a></p>
+                          <p><a className="btn btn-primary" href="https://www.linkedin.com/in/nihalmishra" target="_blank" rel="noopener noreferrer">LinkedIn Profile <i className="icon-book" /></a></p>
                         </div>
                       </div>
                     </div>
