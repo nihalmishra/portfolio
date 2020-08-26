@@ -14,7 +14,7 @@ export default class Projects extends Component {
 						</div>
 						<div className="row">
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
-							<p>Traffic Sign Recognition</p>
+							<p>Traffic Sign Recognition using Deep Learning</p>
 								<div className="project" style={{backgroundImage: 'url(images/tsr_bg.png)'}}>
 									<div className="desc">
 										<div className="con">
@@ -29,8 +29,24 @@ export default class Projects extends Component {
 									</div>
 								</div>
 							</div>
+							<div className="col-md-4 animate-box" data-animate-effect="fadeInBottom">
+							<p>Portfolio Website made with React.js</p>
+								<div className="project" style={{backgroundImage: 'url(images/img-4.jpg)'}}>
+									<div className="desc">
+										<div className="con">
+											<h3><a href="https://github.com/nihalmishra/portfolio">My Online Portfolio</a></h3>
+											<span>React Web Application</span>
+											{/* <p className="icon">
+												<span><a href="#"><i className="icon-share3" /></a></span>
+												<span><a href="#"><i className="icon-eye" /> 100</a></span>
+												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+											</p> */}
+										</div>
+									</div>
+								</div>
+							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
-							<p>CaplGen - A Django web application</p>
+							<p>CaplGen - Django WebApp</p>
 								<div className="project" style={{backgroundImage: 'url(images/img-2.jpg)'}}>
 									<div className="desc">
 										<div className="con">
@@ -61,21 +77,7 @@ export default class Projects extends Component {
 									</div>
 								</div>
 							</div>
-							{/* <div className="col-md-4 animate-box" data-animate-effect="fadeInBottom">
-								<div className="project" style={{backgroundImage: 'url(images/img-4.jpg)'}}>
-									<div className="desc">
-										<div className="con">
-											<h3><a href="work.html">Work 04</a></h3>
-											<span>Application</span>
-											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
-											</p>
-										</div>
-									</div>
-								</div>
-							</div> */}
+							
 							{/* <div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
 								<div className="project" style={{backgroundImage: 'url(images/img-5.jpg)'}}>
 									<div className="desc">
