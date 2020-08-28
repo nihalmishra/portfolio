@@ -42,7 +42,7 @@ I like to engage in getting hands-on with new technologies and learning more thr
                 </span>
                 <div className="desc">
                     <h3>Web Development </h3>
-                    <p>I have experience building SaaS-based web applications using JavaScript,React,AngularJS,HTML,CSS.</p>
+                    <p>I have experience building SaaS-based web applications using JavaScript, React, Django, AngularJS, HTML5/CSS3.</p>
                 </div>
                 </div>
             </div>

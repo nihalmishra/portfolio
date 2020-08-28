@@ -14,100 +14,71 @@ export default class Projects extends Component {
 						</div>
 						<div className="row">
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
-							<p>Traffic Sign Recognition using Deep Learning</p>
+							<a href="https://github.com/nihalmishra/traffic-sign-recognition-DL/" target="_blank" rel="noopener noreferrer"><b><p>Traffic Sign Recognition - Deep Learning</p></b></a>
 								<div className="project" style={{backgroundImage: 'url(images/tsr_bg.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="https://github.com/nihalmishra/traffic-sign-recognition-DL/" target="_blank" rel="noopener noreferrer">Traffic Sign Recognition using Deep Learning</a></h3>
+											<h3><a href="https://github.com/nihalmishra/traffic-sign-recognition-DL/" target="_blank" rel="noopener noreferrer">Traffic Sign Recognition using Deep Learning and Computer Vision</a></h3>
 											<span>Machine Learning</span>
-											{/* <p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
-											</p> */}
 										</div>
 									</div>
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInBottom">
-							<p>Portfolio Website made with React.js</p>
-								<div className="project" style={{backgroundImage: 'url(images/img-4.jpg)'}}>
+							<a href="https://github.com/nihalmishra/portfolio"><b><p>Portfolio Website made with React.js</p></b></a>
+								<div className="project" style={{backgroundImage: 'url(images/website.png)'}}>
 									<div className="desc">
 										<div className="con">
 											<h3><a href="https://github.com/nihalmishra/portfolio">My Online Portfolio</a></h3>
 											<span>React Web Application</span>
-											{/* <p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
-											</p> */}
 										</div>
 									</div>
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
-							<p>CaplGen - Django WebApp</p>
-								<div className="project" style={{backgroundImage: 'url(images/img-2.jpg)'}}>
+							<a href="https://github.com/nihalmishra/caplgen" target="_blank" rel="noopener noreferrer"><b><p>CaplGen - Django WebApp</p></b></a>
+								<div className="project" style={{backgroundImage: 'url(images/django.png)'}}>
 									<div className="desc">
 										<div className="con">
 											<h3><a href="https://github.com/nihalmishra/caplgen" target="_blank" rel="noopener noreferrer">CaplGen</a></h3>
 											<span>Django/Python Web Application</span>
-											{/* <p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
-											</p> */}
+										</div>
+									</div>
+								</div>
+							</div>
+							<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+							<a href="https://github.com/nihalmishra/p2p-Tapestry" target="_blank" rel="noopener noreferrer"><b><p>Distributed Peer-To-Peer Tapestry Algorithm</p></b></a>
+								<div className="project" style={{backgroundImage: 'url(images/elixir.png)'}}>
+									<div className="desc">
+										<div className="con">
+											<h3><a href="https://github.com/nihalmishra/p2p-Tapestry" target="_blank" rel="noopener noreferrer">Implemented a research paper on P2P Tapestry using Elixir</a></h3>
+											<span>Distributed Systems</span>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
+							<a href="https://github.com/nihalmishra/job-scheduler" target="_blank" rel="noopener noreferrer"><b><p>Job Scheduler in Java</p></b></a>	
+								<div className="project" style={{backgroundImage: 'url(images/job_scheduler.svg)'}}>
+									<div className="desc">
+										<div className="con">
+											<h3><a href="https://github.com/nihalmishra/job-scheduler" target="_blank" rel="noopener noreferrer">Efficient Job Scheduler using Heap and RedBlackTree data structures</a></h3>
+											<span>Java application</span>
 										</div>
 									</div>
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInTop">
-								<p>Job Scheduler</p>
-								<div className="project" style={{backgroundImage: 'url(images/img-3.jpg)'}}>
+							<a href="https://github.com/nihalmishra/TwitterToImgurBot" target="_blank" rel="noopener noreferrer"><b><p>Reddit Bot</p></b></a>
+								<div className="project" style={{backgroundImage: 'url(images/reddit-bot.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="https://github.com/nihalmishra/job-scheduler" target="_blank" rel="noopener noreferrer">Job Scheduler using Heap and Red Black Tree Data Structures</a></h3>
-											<span>Java Program</span>
-											{/* <p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
-											</p> */}
+											<h3><a href="https://github.com/nihalmishra/TwitterToImgurBot" target="_blank" rel="noopener noreferrer">TwitterToImgurBot</a></h3>
+											<span>A tweet transcriber bot for Reddit made with Python</span>
 										</div>
 									</div>
 								</div>
 							</div>
-							
-							{/* <div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
-								<div className="project" style={{backgroundImage: 'url(images/img-5.jpg)'}}>
-									<div className="desc">
-										<div className="con">
-											<h3><a href="work.html">Work 05</a></h3>
-											<span>Graphic, Logo</span>
-											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
-											</p>
-										</div>
-									</div>
-								</div>
-							</div>
-							<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
-								<div className="project" style={{backgroundImage: 'url(images/img-6.jpg)'}}>
-									<div className="desc">
-										<div className="con">
-											<h3><a href="work.html">Work 06</a></h3>
-											<span>Web Design</span>
-											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
-											</p>
-										</div>
-									</div>
-								</div>
-							</div> */}
 						</div>
 						<div className="row">
 							<div className="col-md-12 animate-box">

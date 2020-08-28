@@ -59,6 +59,19 @@ export default class Timeline extends Component {
                       </div>
                     </div>
                   </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-5">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Project Trainee at National Informatics Centre, Govt. of India <span>May 2015 - July 2015</span></h2>
+                        <p>• Solely designed and developed an Android app using Java/Android Studio for an online application system.</p> 
+                        <p>• Developed core functionality to fill forms, view status, filter and search applications using MySQL database.</p> 
+                        <p>• Integrated the app with Firebase for authentication, with traffic from the app exceeding the website by 25% after launch.</p>
+                      </div>
+                    </div>
+                  </article>
                   <article className="timeline-entry begin animate-box" data-animate-effect="fadeInBottom">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-none">
