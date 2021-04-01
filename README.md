@@ -10,3 +10,5 @@
 - run `npm start` to start the service on `localhost:3000`
 
 ### Link to my website : <https://nihalmishra.github.io/portfolio/>
+
+Build set up using GitHub Actions for Continuous Integration / Continuous Deployment (CI/CD)
